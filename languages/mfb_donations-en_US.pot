@@ -1,0 +1,3 @@
+#: myfundbox-recurring-payments-for-donation-form.php:445
+msgid "Donate Now"
+msgstr "Donate Now"

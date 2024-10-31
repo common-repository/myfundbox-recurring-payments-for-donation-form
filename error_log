@@ -1,0 +1,80 @@
+[23-Sep-2020 09:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:25:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:25:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:26:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:27:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:28:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:29:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:31:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 09:32:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 10:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 10:24:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 10:24:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 6
+[23-Sep-2020 10:32:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 14
+[23-Sep-2020 10:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ronniearchitect/public_html/up/myfundbox/wp-content/plugins/myfundbox-recurring-payments-for-donation-form/myfundbox-style.php on line 14
